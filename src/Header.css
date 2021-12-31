@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.Header{
+display: flex;
+justify-content: space-between  ;
+padding:10px;
+}
+.headerMenu a{
+    margin-right:20px;
+}
